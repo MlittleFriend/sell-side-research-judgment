@@ -1,0 +1,5 @@
+interface:
+  display_name: "卖方研究分析与判断"
+  short_description: "基于准确可得数据综合判断主导机制与未来方向，形成明确且可检验的卖方结论"
+policy:
+  allow_implicit_invocation: true
