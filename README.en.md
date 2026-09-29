@@ -6,6 +6,8 @@ A reusable research-method skill for sell-side reports, macroeconomic themes, se
 
 **Test the logic, verify accessible evidence, then take a clear, defensible view.** The skill encourages professional judgment beyond description while distinguishing observed facts, mechanism inferences and forecasts. It requires weighing counterevidence, economic magnitude and offsets rather than forcing conviction.
 
+State economic conclusions directly, omitting routine “we judge” prefixes and defensive closing sentences that retract the view. Verify rigorously during research, place technical definitions in chart or data notes, and consolidate material revision conditions in the outlook or risk discussion when useful.
+
 ## Installation
 
 Clone or download this repository into your personal Codex skills directory so the entrypoint is:

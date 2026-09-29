@@ -39,27 +39,33 @@ Triangulate evidence, compare competing explanations and choose the mechanism th
 A mechanism's existence does not establish its dominance. Use shares, incremental contributions, exposures or defensible ranges to assess magnitude where possible. Otherwise rank mechanisms by coverage and evidence strength without inventing precise contributions. Assess net effects, including relevant offsets through income, interest expense, valuation, balance sheets, liquidity and policy. Transfers between accounts or parties do not automatically create or destroy economy-wide purchasing power. Do not count the same change repeatedly through different channels.
 
 - **Facts:** State observations and reproducible calculations accurately, with traceable sources.
-- **Mechanisms:** Make reasoned inferences beyond direct observations. Use language such as “we judge” or “primarily reflects” to own the inference, explain the decisive evidence, and avoid presenting it as direct measurement or an identified causal effect.
+- **Mechanisms:** Make reasoned inferences beyond direct observations. State the dominant mechanism and its economic implications directly, taking responsibility through evidence and reasoning rather than a routine “we judge” prefix. Use precise wording such as “primarily reflects” or “the dominant force is,” without presenting inference as direct measurement or an identified causal effect.
 - **Forecasts:** Choose a clear baseline direction, horizon, dominant forces and material assumptions. If scenarios are useful, identify the baseline and why it has stronger support. Do not substitute a flat list of possibilities for a view or fabricate probabilities, targets or exact contributions.
 
 When evidence conflicts, assess differences in coverage, definitions, lags or underlying mechanisms, and decide which evidence carries more weight. If a specific cause cannot be distinguished, still conclude on established conditions and direction while identifying the unresolved attribution. Do not generalize one unresolved issue into an inability to judge anything.
 
 Forecasts should reflect transmission sequence and lags, and specify change relative to current conditions or an earlier forecast. Distinguish a weak level, an improving direction and the pace of improvement. For investment implications, assess economic or earnings developments separately from market pricing. Favorable fundamentals do not automatically imply asset-price gains: examine valuation, expectations and the realization window. Do not claim a surprise or a differentiated view without checking market expectations.
 
-## Be clear without overstating
+## State economic judgments directly in the report
 
-Lead with the core judgment, followed by decisive evidence, economic reasoning and forecast implications. Distinguish facts, inferences and forecasts naturally rather than attaching a label or disclaimer to every paragraph. Put material limitations where they affect conclusions and technical definitions in chart notes or data notes where practical.
+Verify data rigorously, compare explanations and test counterevidence during research. The report must explain what is changing, which force dominates and where the economy is heading. Complete the evidence comparison before writing the conclusion; a plan to “consider more variables before judging” is not finished analysis.
 
-Avoid ending with “may have an impact,” “requires further observation” or “cannot be ruled out” without stating which conclusion current evidence favors. Before calling something unverified, assess whether existing evidence already supports a provisional judgment; if it does, state it.
+Follow sell-side macro writing conventions: omit routine self-references such as “we judge” and “we believe,” and lead directly with the economic conclusion. Develop decisive data, the dominant mechanism and the outlook in a connected argument. Preserve the user's paragraph and chart structure without interrupting it with methodology or scattered disclaimers. Conviction comes from evidence and economic explanation, not emphatic wording.
+
+Put technical definitions, sample differences and accrual-versus-cash conventions in chart or data notes. Keep limitations in the body only when they materially affect the conclusion's direction, scope or strength, and incorporate them into the actual scope and wording of the conclusion. Continue to distinguish facts, inferences and forecasts accurately; relocating notes must not conceal counterevidence capable of overturning the view.
+
+Avoid ending with “may have an impact,” “requires further observation” or “cannot be ruled out” without stating which conclusion current evidence favors. In particular, do not advance a view and then retract it with “insufficient to establish,” “cannot be equated with” or “other factors must be considered before judging.” If evidence supports strong allocation demand and weak consumption, explain that divergence and its persistence rather than stopping at a reminder that the two concepts differ. Before calling something unverified, assess whether existing evidence already supports a provisional judgment; if it does, state it.
 
 Do not mechanically delete “may,” “expected” or “baseline.” Probabilistic judgments, forecasts and material uncertainty require accurate wording. Reject evasiveness, not uncertainty. Equally, avoid unsupported absolutes such as “inevitable,” “proven” or “entirely caused by.”
 
-Explain which new facts would justify upgrading, downgrading or overturning the view. These conditions must address the central mechanism, not a catchall list compatible with any outcome. Do not invent mechanical thresholds to appear scientific.
+Identify in research notes which new facts would justify upgrading, downgrading or overturning the view. In the finished report, consolidate material conditions in the outlook or risk discussion when useful; do not end every paragraph with “only if X happens would an upgrade be justified.” Close the argument with the best-supported current direction, pace and drivers. Revision conditions must address the central mechanism, not a catchall list compatible with any outcome. Do not invent mechanical thresholds to appear scientific.
 
 ## Review and delivery
 
 Start a review with an overall verdict: the main argument holds; particular inferences need revision; or the central logic fails. Separate factual and definitional errors from opportunities to strengthen reasoning. For defensible views, provide stronger support and usable replacement wording rather than only listing limitations.
 
 Before delivery, confirm that the central question is answered; decisive facts are traceable; the strongest counterevidence is addressed; mechanisms are ranked; forecasts have direction and horizon; and the writing neither disguises inference as fact nor retracts a defensible judgment through caveats. A clear view must remain independent of the user's prior beliefs.
+
+Check whether readers receive an economic assessment and outlook or mainly a list of what the data cannot prove. If the latter dominates, rebuild the argument around the dominant mechanism, relative strengths and baseline outlook. Merely deleting cautious words or replacing them with absolutes does not complete the revision.
 
 For tone calibration, sample extrapolation or rewriting evasive conclusions, read [Judgment and rewriting examples](references/judgment-examples.en.md). The examples illustrate reasoning standards, not preset conclusions for future projects.
